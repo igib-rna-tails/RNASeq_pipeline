@@ -1,6 +1,6 @@
 # Pipeline for analysis and visualization of data from RNA Sequencing
 ***
-Authors: Maciej Grochowski, Michal Malecki, Lidia Lipinska
+Authors: Maciej Grochowski, Michal Malecki, Lidia Lipinska (Documentation)
 
 University of Warsaw, Institute of Genetics and Biotechnology
 ***

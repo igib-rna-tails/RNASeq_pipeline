@@ -1,0 +1,4 @@
+MultiQC
+IGV
+RSeQC
+cutadapt

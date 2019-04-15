@@ -1,10 +1,13 @@
 # Pipeline for analysis and visualization of data from RNA Sequencing
 ***
 Authors: Maciej Grochowski, Michal Malecki, Lidia Lipinska
+
 University of Warsaw, Institute of Genetics and Biotechnology
 ***
 This script contains a procedure to analyze and visualize data from RNA Sequencing.
 ***
+
+
 __The pipeline includes the following steps:__
     1. Installation of requirements.
     2. Creating the directories (folders) to save input and output of the analysis.

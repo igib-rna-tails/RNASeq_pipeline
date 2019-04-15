@@ -8,6 +8,7 @@ This script contains a procedure to analyze and visualize data from RNA Sequenci
 ***
 
 
+
 __The pipeline includes the following steps:__
     1. Installation of requirements.
     2. Creating the directories (folders) to save input and output of the analysis.

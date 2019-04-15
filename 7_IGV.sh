@@ -7,7 +7,7 @@
 #
 # Description: The following script prepares your mapped files for analysis in IGV software.
 #
-# Run Information: This script is run manually by '7_IGV.sh'.
+# Run Information: This script is run manually by 'bash 7_IGV.sh'.
 #
 # Standard Output: The output is the set of mapped files for analysis in IGV software.
 #

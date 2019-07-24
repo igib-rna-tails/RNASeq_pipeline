@@ -53,7 +53,7 @@ done
 
 # If you want to remove nucelotides standing at the end of the sequence add a minus sign (e.g. -u -3).
 #
-# Make sure before aligning the reads that each read in R1 file has its pair in R2 file.
+# Before aligning make sure before aligning the reads that each read in R1 file has its pair in R2 file.
 # You can use bbmap package which cant be downloaded by conda :(
 #cd
 #get BBMap_38.42.tar.gz file to your home directory (https://sourceforge.net/projects/bbmap/files/) (or other version that is more up to date)

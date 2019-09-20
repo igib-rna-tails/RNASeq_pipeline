@@ -22,7 +22,7 @@ source activate fastq
 
 current=`pwd` #current working directory
 cd ~/workdir/reference2
-ff2bed < *.gff3 > reference.gff3.bed #If you prepare annotated reference genome with differ extension (not .ggf3), please change this part of code.
+gff2bed < *.gff3 > reference.gff3.bed #If you prepare annotated reference genome with differ extension (not .ggf3), please change this part of code.
 
 # RSeqC will create 4 files, one of which is run with R
 #

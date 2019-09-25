@@ -13,7 +13,7 @@
 #
 # Error Log: No existing file to storage the errors associated with this script.
 #
-# Requirement: Download annotated reference genome with the extension .ggf3 (or similar). If it differs change code # below. 
+# Requirement: Download annotated reference genome with the extension .gff3 (or similar). If it differs change code # below. 
 # Move the file to ~/workdir/reference2/.
 #
 
